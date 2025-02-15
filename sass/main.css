@@ -1,8 +1,7 @@
 body {
-  background-image: url("../../winrer.jpeg");
+  background-image: url("../winrer.jpeg");
   background-size: auto;
   background-repeat: no-repeat;
-  background-color: aqua;
 }
 
 .welcome {
