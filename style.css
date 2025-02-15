@@ -1,0 +1,12 @@
+body{
+    background-image: url("winrer.jpeg");
+    background-size: cover;
+}
+
+.welcome{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}  
